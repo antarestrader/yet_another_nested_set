@@ -1,0 +1,6 @@
+This is an act_as_nested_set plugin for ActiveRecord.  It makes heavy 
+use of named_scopes.
+
+This code is modified from better_nested_set by Jean-Christophe 
+Michel(MIT Licence), and used code from Awesome_nested_set from Brandon 
+Keepers(MIT Licence). 
